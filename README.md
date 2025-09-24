@@ -1,7 +1,7 @@
 # reto-2-POO
 
 ## Diagrama UML
- ´´´mermaid
+```mermaid
  classDiagram
 direction TB
     class AireAcondicionado {
@@ -72,6 +72,4 @@ direction TB
     AireAcondicionado <-- Evaporador
     AireAcondicionado <-- ValvulaExpansion
     AireAcondicionado <-- SensorTemperatura
-
-
- ´´´
+```
